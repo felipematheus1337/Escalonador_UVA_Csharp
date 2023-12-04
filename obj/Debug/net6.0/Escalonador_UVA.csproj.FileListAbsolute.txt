@@ -1,0 +1,15 @@
+C:\Users\Jogos\source\repos\Escalonador_UVA\bin\Debug\net6.0\Escalonador_UVA.exe
+C:\Users\Jogos\source\repos\Escalonador_UVA\bin\Debug\net6.0\Escalonador_UVA.deps.json
+C:\Users\Jogos\source\repos\Escalonador_UVA\bin\Debug\net6.0\Escalonador_UVA.runtimeconfig.json
+C:\Users\Jogos\source\repos\Escalonador_UVA\bin\Debug\net6.0\Escalonador_UVA.dll
+C:\Users\Jogos\source\repos\Escalonador_UVA\bin\Debug\net6.0\Escalonador_UVA.pdb
+C:\Users\Jogos\source\repos\Escalonador_UVA\obj\Debug\net6.0\Escalonador_UVA.csproj.AssemblyReference.cache
+C:\Users\Jogos\source\repos\Escalonador_UVA\obj\Debug\net6.0\Escalonador_UVA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jogos\source\repos\Escalonador_UVA\obj\Debug\net6.0\Escalonador_UVA.AssemblyInfoInputs.cache
+C:\Users\Jogos\source\repos\Escalonador_UVA\obj\Debug\net6.0\Escalonador_UVA.AssemblyInfo.cs
+C:\Users\Jogos\source\repos\Escalonador_UVA\obj\Debug\net6.0\Escalonador_UVA.csproj.CoreCompileInputs.cache
+C:\Users\Jogos\source\repos\Escalonador_UVA\obj\Debug\net6.0\Escalonador_UVA.dll
+C:\Users\Jogos\source\repos\Escalonador_UVA\obj\Debug\net6.0\refint\Escalonador_UVA.dll
+C:\Users\Jogos\source\repos\Escalonador_UVA\obj\Debug\net6.0\Escalonador_UVA.pdb
+C:\Users\Jogos\source\repos\Escalonador_UVA\obj\Debug\net6.0\Escalonador_UVA.genruntimeconfig.cache
+C:\Users\Jogos\source\repos\Escalonador_UVA\obj\Debug\net6.0\ref\Escalonador_UVA.dll
